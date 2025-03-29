@@ -1,0 +1,47 @@
+[
+  {
+    "Total_Revenue": 1705991717.8211534,
+    "Total_Units": 97263,
+    "Total_Orders": 96093,
+    "Avg_Discount": 28.7546749426,
+    "Revenue_per_Order": 17753.548310711,
+    "Revenue_Percentage": 44.9230505936,
+    "product_analytic_category": "Camera"
+  },
+  {
+    "Total_Revenue": 276502409.59591055,
+    "Total_Units": 240781,
+    "Total_Orders": 234115,
+    "Avg_Discount": 42.9345584886,
+    "Revenue_per_Order": 1181.0537966209,
+    "Revenue_Percentage": 7.2810035393,
+    "product_analytic_category": "CameraAccessory"
+  },
+  {
+    "Total_Revenue": 1194544609.6473668,
+    "Total_Units": 886731,
+    "Total_Orders": 872219,
+    "Avg_Discount": 42.2721364659,
+    "Revenue_per_Order": 1369.5466501502,
+    "Revenue_Percentage": 31.4553625173,
+    "product_analytic_category": "EntertainmentSmall"
+  },
+  {
+    "Total_Revenue": 190090586.09874305,
+    "Total_Units": 105885,
+    "Total_Orders": 102483,
+    "Avg_Discount": 21.3728580107,
+    "Revenue_per_Order": 1854.8499370505,
+    "Revenue_Percentage": 5.0055629975,
+    "product_analytic_category": "GameCDDVD"
+  },
+  {
+    "Total_Revenue": 430457205.97358763,
+    "Total_Units": 221880,
+    "Total_Orders": 214789,
+    "Avg_Discount": 36.4178379258,
+    "Revenue_per_Order": 2004.0933473017,
+    "Revenue_Percentage": 11.3350203523,
+    "product_analytic_category": "GamingHardware"
+  }
+]

@@ -1,0 +1,49 @@
+[{
+    "Channel": "TV",
+    "Current_Budget": 48246.730989481555,
+    "Optimized_Budget": 182774.83483246155,
+    "Impact_Coefficient": 64.88730324714638,
+    "Current_Percentage": 26.396812796305557,
+    "Optimized_Percentage": 100.0,
+    "Change_Percentage": 73.60318720369445
+}, {
+    "Channel": "Radio",
+    "Current_Budget": 34393.54574443923,
+    "Optimized_Budget": 0.0,
+    "Impact_Coefficient": -6.547382092063131,
+    "Current_Percentage": 18.817440473118566,
+    "Optimized_Percentage": 0.0,
+    "Change_Percentage": -18.817440473118566
+}, {
+    "Channel": "Digital",
+    "Current_Budget": 38997.865889481,
+    "Optimized_Budget": 0.0,
+    "Impact_Coefficient": -91.07439138698012,
+    "Current_Percentage": 21.336561964467343,
+    "Optimized_Percentage": 0.0,
+    "Change_Percentage": -21.336561964467343
+}, {
+    "Channel": "Social",
+    "Current_Budget": 31816.975295815508,
+    "Optimized_Budget": 0.0,
+    "Impact_Coefficient": -80.99602421357574,
+    "Current_Percentage": 17.40774397360565,
+    "Optimized_Percentage": 0.0,
+    "Change_Percentage": -17.40774397360565
+}, {
+    "Channel": "Print",
+    "Current_Budget": 18805.579585513566,
+    "Optimized_Budget": 0.0,
+    "Impact_Coefficient": -22.89970263281421,
+    "Current_Percentage": 10.288932610855035,
+    "Optimized_Percentage": 0.0,
+    "Change_Percentage": -10.288932610855035
+}, {
+    "Channel": "Outdoor",
+    "Current_Budget": 10514.13732773067,
+    "Optimized_Budget": 0.0,
+    "Impact_Coefficient": -104.09833627074636,
+    "Current_Percentage": 5.752508181647836,
+    "Optimized_Percentage": 0.0,
+    "Change_Percentage": -5.752508181647836
+}]

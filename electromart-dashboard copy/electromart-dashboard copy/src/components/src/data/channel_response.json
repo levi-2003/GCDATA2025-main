@@ -1,0 +1,242 @@
+[
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "TV",
+    "Response_Factor": 0.6,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 781752761.5075771
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Radio",
+    "Response_Factor": 0.3,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 390876380.75378853
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Digital",
+    "Response_Factor": 0.8,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 1042337015.3434361
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Social",
+    "Response_Factor": 0.7,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 912044888.4255065
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Print",
+    "Response_Factor": 0.2,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 260584253.83585903
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Outdoor",
+    "Response_Factor": 0.1,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 130292126.91792952
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "TV",
+    "Response_Factor": 0.4300557682409431,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 131763414.99990247
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Radio",
+    "Response_Factor": 0.8115319494100879,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 248642685.28051117
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Digital",
+    "Response_Factor": 0.2715016687076945,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 83184530.21435872
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Social",
+    "Response_Factor": 0.5889434878678709,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 180444516.5817365
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Print",
+    "Response_Factor": 0.8798866109645109,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 269585651.9901851
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Outdoor",
+    "Response_Factor": 0.6342866224299407,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 194337054.94050843
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "TV",
+    "Response_Factor": 0.6120219468898264,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 131728767.95245634
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "Radio",
+    "Response_Factor": 0.6082246794310158,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 130911461.69983412
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "Digital",
+    "Response_Factor": 0.3581711252621907,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 77091093.36143903
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "Social",
+    "Response_Factor": 0.1975993170276821,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 42530361.39076417
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "Print",
+    "Response_Factor": 0.5899137918240317,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 126970311.09756966
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "Outdoor",
+    "Response_Factor": 0.2674598288142024,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 57566814.23846407
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "TV",
+    "Response_Factor": 0.5,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 228976323.30422786
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Radio",
+    "Response_Factor": 0.2,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 91590529.32169116
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Digital",
+    "Response_Factor": 0.9,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 412157381.94761014
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Social",
+    "Response_Factor": 0.8,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 366362117.2867646
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Print",
+    "Response_Factor": 0.1,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 45795264.66084558
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Outdoor",
+    "Response_Factor": 0.1,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 45795264.66084558
+  },
+  {
+    "Category": "Camera",
+    "Channel": "TV",
+    "Response_Factor": 0.5509313651651192,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 988412520.876924
+  },
+  {
+    "Category": "Camera",
+    "Channel": "Radio",
+    "Response_Factor": 0.441785770062193,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 792597071.5859538
+  },
+  {
+    "Category": "Camera",
+    "Channel": "Digital",
+    "Response_Factor": 0.8605662148648423,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 1543920850.396928
+  },
+  {
+    "Category": "Camera",
+    "Channel": "Social",
+    "Response_Factor": 0.5304741582810865,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 951710745.1116481
+  },
+  {
+    "Category": "Camera",
+    "Channel": "Print",
+    "Response_Factor": 0.16083732929341618,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 288554328.4513699
+  },
+  {
+    "Category": "Camera",
+    "Channel": "Outdoor",
+    "Response_Factor": 0.3990669197307448,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 715956224.4408365
+  }
+]

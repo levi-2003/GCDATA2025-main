@@ -1,0 +1,82 @@
+[
+  {
+    "Category": "Camera",
+    "Channel": "Digital",
+    "Response_Factor": 0.8605662148648423,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 1543920850.396928
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Digital",
+    "Response_Factor": 0.8,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 1042337015.3434361
+  },
+  {
+    "Category": "Camera",
+    "Channel": "TV",
+    "Response_Factor": 0.5509313651651192,
+    "product_analytic_category": "Camera",
+    "Revenue": 1794075602.467628,
+    "Effectiveness_Score": 988412520.876924
+  },
+  {
+    "Category": "EntertainmentSmall",
+    "Channel": "Social",
+    "Response_Factor": 0.7,
+    "product_analytic_category": "EntertainmentSmall",
+    "Revenue": 1302921269.179295,
+    "Effectiveness_Score": 912044888.4255065
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Digital",
+    "Response_Factor": 0.9,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 412157381.94761014
+  },
+  {
+    "Category": "GamingHardware",
+    "Channel": "Social",
+    "Response_Factor": 0.8,
+    "product_analytic_category": "GamingHardware",
+    "Revenue": 457952646.6084557,
+    "Effectiveness_Score": 366362117.2867646
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Print",
+    "Response_Factor": 0.8798866109645109,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 269585651.9901851
+  },
+  {
+    "Category": "CameraAccessory",
+    "Channel": "Radio",
+    "Response_Factor": 0.8115319494100879,
+    "product_analytic_category": "CameraAccessory",
+    "Revenue": 306386810.1080339,
+    "Effectiveness_Score": 248642685.28051117
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "TV",
+    "Response_Factor": 0.6120219468898264,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 131728767.95245634
+  },
+  {
+    "Category": "GameCDDVD",
+    "Channel": "Radio",
+    "Response_Factor": 0.6082246794310158,
+    "product_analytic_category": "GameCDDVD",
+    "Revenue": 215235366.34899402,
+    "Effectiveness_Score": 130911461.69983412
+  }
+]
